@@ -1,0 +1,83 @@
+/* resetters of already css */
+.toolbarBox {}
+/* resetters of already css */
+.everypay_container{}
+.everypay_container .admin_logo{
+    background: url("../images/loogorfulll1.png") no-repeat scroll 10px 20px black;
+    height: 44px;
+    padding-left: 230px;
+    padding-top: 117px;
+
+}
+.everypay_container .admin_logo p{
+    color: #FFFFFF;
+    font-size: 17px;
+}
+
+.menu_admin{
+    display: inline-block;
+    margin: 2%;
+    width: 96%;
+
+}
+.menu_admin ul{}
+.menu_admin ul li{
+    float: left;
+    margin: 0 3px;
+}
+.menu_admin ul li a{}
+.menu_admin .text_li_label{
+    margin-left: 65px;
+}
+
+
+.ev_settings input[type="text"],
+.ev_settings textarea,
+.ev_settings select
+{
+    margin-bottom: 9px;
+    width: 290px;
+}
+.everypay_container .alert{
+    margin:10px 0 !important;
+    padding:0 15px !important;
+}
+
+.menu_admin li{
+    list-style:none;
+}
+
+.half-fieldset {
+    border-bottom: 1px dashed #C0C0C0;
+    float: left;
+    margin-bottom: 12px;
+    text-align: center;
+    width: 100%;
+}
+.half-fieldset h3 { text-align: right;width:250px}
+.half-fieldset .margin-form{text-align:left;}
+.mode_switch {
+    background: none repeat scroll 0 0 #637992;
+    color: #FFFFFF;
+    display: inline-block;
+    padding: 8px;
+}
+.mode_switch label {
+    color: #FFFFFF !important;
+    float: left;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 0 15px 0 4px;
+    text-shadow: none;
+    width: auto;
+}
+.mode_switch input {
+    float: left;
+    margin-top: 1%;
+    width: auto;
+}
+.monospace{
+    font-family:monospace
+}
+</style>
+

@@ -1,0 +1,29 @@
+{
+    "name": "everypay/everypay-php",
+    "type": "library",
+    "description": "",
+    "keywords": ["payment", "provider", "payment processing", "api"],
+    "license": "MIT",
+    "homepage": "https://www.everypay.gr",
+    "authors": [
+    {
+        "name": "EveryPay Payment Processing Gateway",
+        "homepage": "https://www.everypay.gr"
+    }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Everypay\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Everypay\\": "tests/"
+        }
+    }
+}
