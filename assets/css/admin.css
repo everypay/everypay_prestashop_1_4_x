@@ -3,15 +3,18 @@
 /* resetters of already css */
 .everypay_container{}
 .everypay_container .admin_logo{
-    background: url("../images/loogorfulll1.png") no-repeat scroll 10px 20px black;
-    height: 44px;
-    padding-left: 230px;
-    padding-top: 117px;
-
+    background: white url("../images/back-admin.jpg") no-repeat scroll center bottom / cover ;
+    display: inline-block;
+    height: auto;
+    width: 100%;
 }
 .everypay_container .admin_logo p{
-    color: #FFFFFF;
-    font-size: 17px;
+    color: #000;
+    font-size: 14px;
+    font-style: oblique;
+    padding-bottom: 15px;
+    padding-left: 91px;
+    padding-top: 110px;
 }
 
 .menu_admin{
