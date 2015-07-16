@@ -14,4 +14,5 @@ Everypay Payments module for prestashop 1.4.x
 * Fill in your api keys in Modules Tab in admin panel
 * Select Live or Test Mode
 
-####Test, test & more test and you are set to go!
+####Test, test & more test 
+####You are set to go!
